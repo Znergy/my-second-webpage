@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  font-family: cursive;
+  font-size: 50px;
+  line-height: normal;
+}
+
+li {
+
+}
+
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+}
